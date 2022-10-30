@@ -26,8 +26,8 @@ The last name "Boulard" seems to have a german etymology, derived from "Bolohard
         <span class="tile-image">
             <img src="/assets/images/lilian.png" alt="Lilian's avatar">
         </span>
-        <a href="https://lilian.boulard.fr" style="pointer-events: none;">
-            <h2 style="pointer-events: none;">Lilian</h2>
+        <a href="https://lilian.boulard.fr">
+            <h2>Lilian</h2>
             <div class="tile-content">
                 <p>
                     Lilian works at the French Institute for Research in Computer Science and Automation.<br>
