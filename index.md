@@ -7,7 +7,7 @@ layout: home
 
 # Welcome to boulard.fr!
 
-This page is a hub for the individual pages of the Boulard family's members.
+This page is a hub for the individual pages of the Boulard family members.
 
 <hr>
 
