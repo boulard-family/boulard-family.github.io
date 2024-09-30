@@ -41,6 +41,6 @@ Le nom de famille "Boulard" sembre avoir une ethymologie germanique, dérivé de
 
 ## Mon nom est aussi Boulard !
 
-Parce qu'en plus d'être modernes, on est sympa, nous vous offrons la possibilité d'héberger votre propre page et adresse email (<prénom>@boulard.fr) sur ce domaine !
+Parce qu'en plus d'être modernes, on est sympa, nous vous offrons la possibilité d'héberger votre propre page et adresse email (\<prénom\>@boulard.fr) sur ce domaine !
 
 Si vous êtes intéressé, merci de prendre contact avec l'administrateur du site à l'adresse mail *webmaster arobase boulard point fr*.
