@@ -5,17 +5,17 @@
 layout: home
 ---
 
-# Welcome to boulard.fr!
+# Bienvenue sur boulard.fr !
 
-This page is a hub for the individual pages of the Boulard family members.
+Cette page est un hub pour les pages individuelles des membres de la famille Boulard.
 
 <hr>
 
-*A quick lesson, if you will*
+*Petite note historique*
 
-The last name "Boulard" seems to have a german etymology, derived from "Bolohard" (*bolo* being friend/brother, *hard* being hard/strong), according to [Geneanet](https://www.geneanet.org/nom-de-famille/BOULARD). It is mainly spread accross metropolitan France.
+Le nom de famille "Boulard" sembre avoir une ethymologie germanique, dérivé de "Bolohard" (*bolo* signifiant ami/frère, *hard* signifiant dur/fort), selon [Geneanet](https://www.geneanet.org/nom-de-famille/BOULARD). Ce nom est principalement répandu en France métropolitaine.
 
-[According to INSEE](https://www.insee.fr/fr/statistiques/3536630) (The French Institute for Statistics and Economic Studies), there have been 7239 births with the name "Boulard" between 1891 et 2000.
+[Selon l'INSEE](https://www.insee.fr/fr/statistiques/3536630), il y a eu 7239 naissances avec le nom "Boulard" entre 1891 et 2000.
 
 <hr>
 
@@ -30,8 +30,7 @@ The last name "Boulard" seems to have a german etymology, derived from "Bolohard
             <h2>Lilian</h2>
             <div class="tile-content">
                 <p>
-                    Lilian works at the French Institute for Research in Computer Science and Automation.<br>
-                    He specializes in Artificial Intelligence.
+                    Lilian est ingénieur en intelligence artificielle.
                 </p>
             </div>
         </a>
@@ -40,15 +39,8 @@ The last name "Boulard" seems to have a german etymology, derived from "Bolohard
 
 <hr>
 
-## My name is also Boulard!
+## Mon nom est aussi Boulard !
 
-What ?
+Parce qu'en plus d'être modernes, on est sympa, nous vous offrons la possibilité d'héberger votre propre page et adresse email (<prénom>@boulard.fr) sur ce domaine !
 
-You mean we're not the only ones ?
-
-Well, because on top of being modern, we're nice, we can offer you the possibility to host your very own page and email address on this domain !
-
-If you are interested, please contact [the website administrator](https://github.com/LilianBoulard).
-
-<br />
-*PS: The domain is not for sale.*
+Si vous êtes intéressé, merci de prendre contact avec l'administrateur du site à l'adresse mail *webmaster arobase boulard point fr*.
